@@ -1,0 +1,1 @@
+We wanted to fix some specs and make our code cleaner and more succinct.Our game was previously flickering too much due to too many calls to render frame and StdDraw. After fixing those errors and making the style better we were ready to submit. Sorry for being late! It won’t happen again! 
